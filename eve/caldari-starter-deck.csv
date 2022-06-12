@@ -1,0 +1,40 @@
+Name,Type,Subtype,Code,Quantity
+Mogul Tower,Starbase,,008/240,1
+Precognition Tower,Starbase,,010/240,1
+Venal Tower,Starbase,,012/240,1
+Cloud Ring,Outer Region,,013/240,1
+Dam Torsad,Outer Region,,014/240,1
+Eve Gate,Outer Region,,015/240,1
+Ginnungagap,Outer Region,,016/240,1
+Heaven,Outer Region,,017/240,1
+Kyonoke Pit,Outer Region,,019/240,1
+Moon of Ndoria,Outer Region,,023/240,1
+Scalding Pass,Outer Region,,025/240,1
+Society of Conscious Thought,Outer Region,,027/240,1
+Echoes of Gloom Bay,Location,Moon,037/240,1
+Interstellar Trade Post,Location,Station,043/240,2
+Omber,Location,Asteroid Field,047/240,2
+Plagioclase,Location,Asteroid Field,048/240,2
+Remote Research Facility,Location,Moon,051/240,1
+Sansha’s Scout Outpost,Location,Station,053/240,2
+Veldspar,Location,Asteroid Field,060/240,3
+Advanced Shipyard,Starbase Structure,,061/240,1
+EMP Minefield,Starbase Structure,,072/240,1
+Market Research Lab,Starbase Structure,,085/240,1
+Xeno Research Centre,Starbase Structure,,105/240,1
+Badger,Ship,Industrial,111/240,2
+Basilisk,Ship,Cruiser > Logistic,114/240,1
+Blackbird,Ship,Cruiser,117/240,1
+Condor,Ship,Frigate,125/240,2
+Cormorant,Ship,Destroyer,126/240,1
+Ferox,Ship,Battlecruiser,132/240,1
+Griffin,Ship,Frigate,133/240,2
+Heron,Ship,Frigate,135/240,2
+Ibis,Ship,Scout,137/240,2
+Kestrel,Ship,Frigate,144/240,2
+Merlin,Ship,Frigate,149/240,2
+Faulty Implant Manufacturer,News,,197/240,1
+Impending Doom,News,,206/240,2
+Information at a Cost,News,,207/240,2
+Power Shortage,News,,220/240,1
+Ship Computer Glitch,News,,229/240,2

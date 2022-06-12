@@ -23,3 +23,5 @@
 * [Battletech TCG](./battletech.md)
 * [X Files CCG](./xfiles.md)
 * [Wars TCG](./wars.md)
+* [Transformers CCG](./transformers.md)
+* [EVE: The Second Genesis](./eve.md)
